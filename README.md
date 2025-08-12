@@ -266,8 +266,9 @@ This project opens unprecedented possibilities for:
 
 ---
 
-[![Stars](https://img.shields.io/github/stars/yourusername/ancient-language-translators?style=social)](https://github.com/yourusername/ancient-language-translators)
-[![Forks](https://img.shields.io/github/forks/yourusername/ancient-language-translators?style=social)](https://github.com/yourusername/ancient-language-translators/network)
-[![Issues](https://img.shields.io/github/issues/yourusername/ancient-language-translators)](https://github.com/yourusername/ancient-language-translators/issues)
-[![License](https://img.shields.io/github/license/yourusername/ancient-language-translators)](https://github.com/yourusername/ancient-language-translators/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/Lackadaisical-Security/ancient-language-translators?style=social)](https://github.com/Lackadaisical-Security/ancient-language-translators)
+[![Forks](https://img.shields.io/github/forks/Lackadaisical-Security/ancient-language-translators?style=social)](https://github.com/Lackadaisical-Security/ancient-language-translators/network)
+[![Issues](https://img.shields.io/github/issues/Lackadaisical-Security/ancient-language-translators)](https://github.com/Lackadaisical-Security/ancient-language-translators/issues)
+[![License](https://img.shields.io/github/license/Lackadaisical-Security/ancient-language-translators)](https://github.com/Lackadaisical-Security/ancient-language-translators/blob/main/ghost_license_v_1.md)
+
 
